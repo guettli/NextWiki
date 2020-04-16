@@ -22,7 +22,7 @@ The hashtag "#Vacation" should be rendered as hyperlink to the wiki page "Vacati
 
 For every term/page:
 
-* The URL should be nice. Example: `https://example.com/wiki/Vacation` (not `https://example/wiki/page/37a8b992e9ff`)
+* The URL should be nice. Example: `https://example.com/wiki/Vacation` (not `https://example/wiki?page=37a8b992e9ff`)
 * Changes are versioned: a log of "who edited what" exists
 * It should be possible to see the difference between two versions.
 * A version can get a label (example "version 1.0")
