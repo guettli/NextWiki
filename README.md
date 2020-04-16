@@ -30,7 +30,7 @@ For every term/page:
 * Company wide knowledge base
 * Store the documents of ISO-9001 certification
 
-# Combine file-tagging with #hashtags?
+## Combine file-tagging with #hashtags?
 
 NextCloud already provides [file-tagging](https://docs.nextcloud.com/server/18/user_manual/files/access_webgui.html#tagging-files) maybe it would simplify a lot if both list of terms get combined.
 
@@ -38,6 +38,8 @@ In personal context: Imagine you have a dog called "Wuffi". You could tag your f
 
 In business context: Imageine there is an import project. Let's call it master-plan. You could tag files with "master-plan" and simultaneously create a wiki page for it. All employees involved can find and share #master-plan easily. The wiki pages contains all a list of all files with the tag (auto-created) and manual content created be users.
 
+## Related
 
+* [Intranet Wiki Guidelines](https://github.com/guettli/intranet-wiki-guidelines)
 
 
