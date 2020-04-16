@@ -16,6 +16,8 @@ Alice> Hi Bob, how are holiday request handled at Foo Company?
 
 Bob> See #Vacation
 
+The hashtag "#Vacation" should be rendered as hyperlink to the wiki page "Vacation". There Alice can read how holiday requests are handled at Foo Company.
+
 ## Per #Term
 
 For every term/page:
