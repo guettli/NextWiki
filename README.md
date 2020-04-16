@@ -30,8 +30,9 @@ For every term/page:
 
 ## Use cases
 
-* Company wide knowledge base
-* Store the documents of ISO-9001 certification
+* Company/Family wide knowledge base
+* Store the documents of a ISO-9001 certification
+* ...
 
 ## Combine file-tagging with #hashtags?
 
