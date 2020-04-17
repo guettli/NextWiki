@@ -31,7 +31,7 @@ For every term/page:
 ## Use cases
 
 * Company/Family wide knowledge base
-* Store the documents of an ISO-9001 certification
+* Defining Responsibilities/Ownership (for example for an ISO-9001 certification)
 * ...
 
 ## Combine file-tagging with #hashtags?
