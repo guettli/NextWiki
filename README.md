@@ -45,3 +45,7 @@ In a business context: Imagine there is an import project. Let's call it master-
 ## Related
 
 * [Intranet Wiki Guidelines](https://github.com/guettli/intranet-wiki-guidelines)
+
+## Problem: I can't programm PHP
+
+I have no clue who to implement this in PHP/Nextcloud.
